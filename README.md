@@ -6,6 +6,6 @@ Jenkins black console
 
     You can use this URL:
 
-        - http://jazzzz.github.io/jenkins-black-console/black-console.css
+        http://jazzzz.github.io/jenkins-black-console/black-console.css
 
 [simple_theme]: https://wiki.jenkins-ci.org/display/JENKINS/Simple+Theme+Plugin
