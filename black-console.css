@@ -1,0 +1,13 @@
+.console-output {
+    padding: 1em;
+    background-color: black;
+    color: white;
+}
+
+.console-output a:link {
+    color: #b088ff;
+}
+
+.console-output a:visited {
+    color: #8888ff;
+}
